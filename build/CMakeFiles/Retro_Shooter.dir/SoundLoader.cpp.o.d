@@ -1,7 +1,7 @@
 CMakeFiles/Retro_Shooter.dir/SoundLoader.cpp.o: \
  /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/SoundLoader.cpp \
  /usr/include/stdc-predef.h \
- /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/include/SoundLoader.h \
+ /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/SoundLoader.h \
  /usr/include/c++/15/string /usr/include/c++/15/bits/requires_hosted.h \
  /usr/include/c++/15/x86_64-redhat-linux/bits/c++config.h \
  /usr/include/bits/wordsize.h \

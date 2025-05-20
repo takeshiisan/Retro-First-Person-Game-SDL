@@ -26,6 +26,8 @@ Retro_Shooter: \
   /usr/lib/gcc/x86_64-redhat-linux/15/../../../../lib64/libSDL2.so \
   /usr/lib64/libSDL2_mixer.so \
   /usr/lib/gcc/x86_64-redhat-linux/15/../../../../lib64/libSDL2_image.so \
+  /usr/lib/gcc/x86_64-redhat-linux/15/../../../../lib64/libSDL2_gfx.so \
+  /usr/lib/gcc/x86_64-redhat-linux/15/../../../../lib64/libSDL2_ttf.so \
   /usr/lib/gcc/x86_64-redhat-linux/15/libstdc++.so \
   /usr/lib/gcc/x86_64-redhat-linux/15/../../../../lib64/libm.so \
   /usr/lib/gcc/x86_64-redhat-linux/15/../../../../lib64/libm.so \
@@ -57,6 +59,8 @@ Retro_Shooter: \
   /usr/lib64/libavif.so.16 \
   /usr/lib64/libwebpdemux.so.2 \
   /usr/lib64/libwebp.so.7 \
+  /usr/lib64/libharfbuzz.so.0 \
+  /usr/lib64/libfreetype.so.6 \
   /lib64/ld-linux-x86-64.so.2 \
   /usr/lib64/libjxl_cms.so.0.11 \
   /usr/lib64/libhwy.so.1 \
@@ -73,9 +77,14 @@ Retro_Shooter: \
   /usr/lib64/libSvtAv1Enc.so.2 \
   /usr/lib64/libaom.so.3 \
   /usr/lib64/libsharpyuv.so.0 \
+  /usr/lib64/libglib-2.0.so.0 \
+  /usr/lib64/libgraphite2.so.3 \
+  /usr/lib64/libbz2.so.1 \
+  /usr/lib64/libpng16.so.16 \
   /usr/lib64/libbrotlicommon.so.1 \
   /usr/lib64/libcpuinfo.so.24.09.26 \
-  /usr/lib64/libvmaf.so.3
+  /usr/lib64/libvmaf.so.3 \
+  /usr/lib64/libpcre2-8.so.0
 
 /usr/lib/gcc/x86_64-redhat-linux/15/../../../../lib64/crt1.o:
 
@@ -130,6 +139,10 @@ CMakeFiles/Retro_Shooter.dir/main.cpp.o:
 /usr/lib64/libSDL2_mixer.so:
 
 /usr/lib/gcc/x86_64-redhat-linux/15/../../../../lib64/libSDL2_image.so:
+
+/usr/lib/gcc/x86_64-redhat-linux/15/../../../../lib64/libSDL2_gfx.so:
+
+/usr/lib/gcc/x86_64-redhat-linux/15/../../../../lib64/libSDL2_ttf.so:
 
 /usr/lib/gcc/x86_64-redhat-linux/15/libstdc++.so:
 
@@ -193,6 +206,10 @@ CMakeFiles/Retro_Shooter.dir/main.cpp.o:
 
 /usr/lib64/libwebp.so.7:
 
+/usr/lib64/libharfbuzz.so.0:
+
+/usr/lib64/libfreetype.so.6:
+
 /lib64/ld-linux-x86-64.so.2:
 
 /usr/lib64/libjxl_cms.so.0.11:
@@ -225,8 +242,18 @@ CMakeFiles/Retro_Shooter.dir/main.cpp.o:
 
 /usr/lib64/libsharpyuv.so.0:
 
+/usr/lib64/libglib-2.0.so.0:
+
+/usr/lib64/libgraphite2.so.3:
+
+/usr/lib64/libbz2.so.1:
+
+/usr/lib64/libpng16.so.16:
+
 /usr/lib64/libbrotlicommon.so.1:
 
 /usr/lib64/libcpuinfo.so.24.09.26:
 
 /usr/lib64/libvmaf.so.3:
+
+/usr/lib64/libpcre2-8.so.0:
