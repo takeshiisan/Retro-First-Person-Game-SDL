@@ -3,7 +3,7 @@
 
 const float Game::fovRad = MathAddon::angleDegToRad(60.0f);
 
-
+// idk bro
 
 
 Game::Game(SDL_Window* window, SDL_Renderer* renderer, int windowWidth, int windowHeight) :
