@@ -13,3 +13,4 @@ find_package(SDL2_mixer REQUIRED)
     endif()
 
 target_include_directories(Retro_Shooter PRIVATE include SDL2_mixer)
+
