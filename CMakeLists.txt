@@ -12,5 +12,5 @@ find_package(SDL2_mixer REQUIRED)
       message(FATAL_ERROR "SDL2_mixer not found")
     endif()
 
-target_include_directories(Retro_Shooter PRIVATE include SDL2_mixer)
+target_include_directories(Retro_Shooter PRIVATE include PRIVATE Data/Images Data/Sounds)
 

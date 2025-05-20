@@ -309,7 +309,7 @@ CMakeFiles/Retro_Shooter.dir/main.cpp.o: \
  /usr/include/SDL2/SDL_audio.h /usr/include/SDL2/SDL_endian.h \
  /usr/include/SDL2/SDL_version.h /usr/include/SDL2/begin_code.h \
  /usr/include/SDL2/close_code.h \
- /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/Game.h \
+ /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/include/Game.h \
  /usr/include/c++/15/vector /usr/include/c++/15/bits/stl_uninitialized.h \
  /usr/include/c++/15/bits/stl_vector.h \
  /usr/include/c++/15/bits/stl_bvector.h \
@@ -332,8 +332,8 @@ CMakeFiles/Retro_Shooter.dir/main.cpp.o: \
  /usr/include/c++/15/pstl/glue_memory_defs.h \
  /usr/include/c++/15/pstl/execution_defs.h \
  /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/include/../SDL2_mixer/SDL_mixer.h \
- /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/Sprite.h \
- /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/TextureLoader.h \
+ /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/include/Sprite.h \
+ /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/include/TextureLoader.h \
  /usr/include/c++/15/unordered_map \
  /usr/include/c++/15/bits/unordered_map.h \
  /usr/include/c++/15/bits/hashtable.h \
@@ -341,25 +341,25 @@ CMakeFiles/Retro_Shooter.dir/main.cpp.o: \
  /usr/include/c++/15/bits/enable_special_members.h \
  /usr/include/c++/15/bits/node_handle.h \
  /usr/include/c++/15/bits/erase_if.h \
- /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/Vector2D.h \
- /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/UnitEnemy.h \
- /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/Unit.h \
- /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/Weapon.h \
- /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/SoundLoader.h \
- /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/Projectile.h \
- /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/Level.h \
+ /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/include/Vector2D.h \
+ /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/include/UnitEnemy.h \
+ /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/include/Unit.h \
+ /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/include/Weapon.h \
+ /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/include/SoundLoader.h \
+ /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/include/Projectile.h \
+ /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/include/Level.h \
  /usr/include/c++/15/algorithm /usr/include/c++/15/bits/stl_algo.h \
  /usr/include/c++/15/bits/algorithmfwd.h \
  /usr/include/c++/15/bits/stl_heap.h \
  /usr/include/c++/15/bits/uniform_int_dist.h \
  /usr/include/c++/15/pstl/glue_algorithm_defs.h \
- /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/Pickup.h \
- /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/Health.h \
- /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/Coin.h \
- /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/Ammo.h \
- /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/UpgradeHealth.h \
- /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/UpgradeAmmo.h \
- /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/UpgradeWeaponSpeed.h \
- /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/Timer.h \
- /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/UnitPlayer.h \
- /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/MathAddon.h
+ /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/include/Pickup.h \
+ /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/include/Health.h \
+ /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/include/Coin.h \
+ /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/include/Ammo.h \
+ /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/include/UpgradeHealth.h \
+ /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/include/UpgradeAmmo.h \
+ /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/include/UpgradeWeaponSpeed.h \
+ /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/include/Timer.h \
+ /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/include/UnitPlayer.h \
+ /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/include/MathAddon.h

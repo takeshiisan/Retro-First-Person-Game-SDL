@@ -60,7 +60,11 @@
 				},
 				{
 					"backtrace" : 3,
-					"path" : "/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/SDL2_mixer"
+					"path" : "/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/Data/Images"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/Data/Sounds"
 				},
 				{
 					"backtrace" : 2,
