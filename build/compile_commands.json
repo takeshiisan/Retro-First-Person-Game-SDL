@@ -1,0 +1,128 @@
+[
+{
+  "directory": "/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/build",
+  "command": "/usr/bin/c++  -I/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/include -I/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/SDL2_mixer -isystem /usr/include/SDL2 -g -o CMakeFiles/Retro_Shooter.dir/Ammo.cpp.o -c /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/Ammo.cpp",
+  "file": "/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/Ammo.cpp",
+  "output": "CMakeFiles/Retro_Shooter.dir/Ammo.cpp.o"
+},
+{
+  "directory": "/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/build",
+  "command": "/usr/bin/c++  -I/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/include -I/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/SDL2_mixer -isystem /usr/include/SDL2 -g -o CMakeFiles/Retro_Shooter.dir/Coin.cpp.o -c /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/Coin.cpp",
+  "file": "/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/Coin.cpp",
+  "output": "CMakeFiles/Retro_Shooter.dir/Coin.cpp.o"
+},
+{
+  "directory": "/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/build",
+  "command": "/usr/bin/c++  -I/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/include -I/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/SDL2_mixer -isystem /usr/include/SDL2 -g -o CMakeFiles/Retro_Shooter.dir/Game.cpp.o -c /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/Game.cpp",
+  "file": "/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/Game.cpp",
+  "output": "CMakeFiles/Retro_Shooter.dir/Game.cpp.o"
+},
+{
+  "directory": "/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/build",
+  "command": "/usr/bin/c++  -I/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/include -I/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/SDL2_mixer -isystem /usr/include/SDL2 -g -o CMakeFiles/Retro_Shooter.dir/Health.cpp.o -c /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/Health.cpp",
+  "file": "/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/Health.cpp",
+  "output": "CMakeFiles/Retro_Shooter.dir/Health.cpp.o"
+},
+{
+  "directory": "/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/build",
+  "command": "/usr/bin/c++  -I/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/include -I/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/SDL2_mixer -isystem /usr/include/SDL2 -g -o CMakeFiles/Retro_Shooter.dir/Level.cpp.o -c /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/Level.cpp",
+  "file": "/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/Level.cpp",
+  "output": "CMakeFiles/Retro_Shooter.dir/Level.cpp.o"
+},
+{
+  "directory": "/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/build",
+  "command": "/usr/bin/c++  -I/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/include -I/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/SDL2_mixer -isystem /usr/include/SDL2 -g -o CMakeFiles/Retro_Shooter.dir/MathAddon.cpp.o -c /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/MathAddon.cpp",
+  "file": "/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/MathAddon.cpp",
+  "output": "CMakeFiles/Retro_Shooter.dir/MathAddon.cpp.o"
+},
+{
+  "directory": "/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/build",
+  "command": "/usr/bin/c++  -I/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/include -I/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/SDL2_mixer -isystem /usr/include/SDL2 -g -o CMakeFiles/Retro_Shooter.dir/Pickup.cpp.o -c /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/Pickup.cpp",
+  "file": "/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/Pickup.cpp",
+  "output": "CMakeFiles/Retro_Shooter.dir/Pickup.cpp.o"
+},
+{
+  "directory": "/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/build",
+  "command": "/usr/bin/c++  -I/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/include -I/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/SDL2_mixer -isystem /usr/include/SDL2 -g -o CMakeFiles/Retro_Shooter.dir/Projectile.cpp.o -c /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/Projectile.cpp",
+  "file": "/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/Projectile.cpp",
+  "output": "CMakeFiles/Retro_Shooter.dir/Projectile.cpp.o"
+},
+{
+  "directory": "/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/build",
+  "command": "/usr/bin/c++  -I/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/include -I/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/SDL2_mixer -isystem /usr/include/SDL2 -g -o CMakeFiles/Retro_Shooter.dir/SoundLoader.cpp.o -c /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/SoundLoader.cpp",
+  "file": "/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/SoundLoader.cpp",
+  "output": "CMakeFiles/Retro_Shooter.dir/SoundLoader.cpp.o"
+},
+{
+  "directory": "/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/build",
+  "command": "/usr/bin/c++  -I/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/include -I/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/SDL2_mixer -isystem /usr/include/SDL2 -g -o CMakeFiles/Retro_Shooter.dir/Sprite.cpp.o -c /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/Sprite.cpp",
+  "file": "/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/Sprite.cpp",
+  "output": "CMakeFiles/Retro_Shooter.dir/Sprite.cpp.o"
+},
+{
+  "directory": "/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/build",
+  "command": "/usr/bin/c++  -I/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/include -I/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/SDL2_mixer -isystem /usr/include/SDL2 -g -o CMakeFiles/Retro_Shooter.dir/TextureLoader.cpp.o -c /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/TextureLoader.cpp",
+  "file": "/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/TextureLoader.cpp",
+  "output": "CMakeFiles/Retro_Shooter.dir/TextureLoader.cpp.o"
+},
+{
+  "directory": "/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/build",
+  "command": "/usr/bin/c++  -I/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/include -I/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/SDL2_mixer -isystem /usr/include/SDL2 -g -o CMakeFiles/Retro_Shooter.dir/Timer.cpp.o -c /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/Timer.cpp",
+  "file": "/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/Timer.cpp",
+  "output": "CMakeFiles/Retro_Shooter.dir/Timer.cpp.o"
+},
+{
+  "directory": "/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/build",
+  "command": "/usr/bin/c++  -I/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/include -I/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/SDL2_mixer -isystem /usr/include/SDL2 -g -o CMakeFiles/Retro_Shooter.dir/Unit.cpp.o -c /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/Unit.cpp",
+  "file": "/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/Unit.cpp",
+  "output": "CMakeFiles/Retro_Shooter.dir/Unit.cpp.o"
+},
+{
+  "directory": "/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/build",
+  "command": "/usr/bin/c++  -I/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/include -I/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/SDL2_mixer -isystem /usr/include/SDL2 -g -o CMakeFiles/Retro_Shooter.dir/UnitEnemy.cpp.o -c /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/UnitEnemy.cpp",
+  "file": "/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/UnitEnemy.cpp",
+  "output": "CMakeFiles/Retro_Shooter.dir/UnitEnemy.cpp.o"
+},
+{
+  "directory": "/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/build",
+  "command": "/usr/bin/c++  -I/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/include -I/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/SDL2_mixer -isystem /usr/include/SDL2 -g -o CMakeFiles/Retro_Shooter.dir/UnitPlayer.cpp.o -c /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/UnitPlayer.cpp",
+  "file": "/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/UnitPlayer.cpp",
+  "output": "CMakeFiles/Retro_Shooter.dir/UnitPlayer.cpp.o"
+},
+{
+  "directory": "/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/build",
+  "command": "/usr/bin/c++  -I/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/include -I/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/SDL2_mixer -isystem /usr/include/SDL2 -g -o CMakeFiles/Retro_Shooter.dir/UpgradeAmmo.cpp.o -c /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/UpgradeAmmo.cpp",
+  "file": "/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/UpgradeAmmo.cpp",
+  "output": "CMakeFiles/Retro_Shooter.dir/UpgradeAmmo.cpp.o"
+},
+{
+  "directory": "/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/build",
+  "command": "/usr/bin/c++  -I/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/include -I/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/SDL2_mixer -isystem /usr/include/SDL2 -g -o CMakeFiles/Retro_Shooter.dir/UpgradeHealth.cpp.o -c /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/UpgradeHealth.cpp",
+  "file": "/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/UpgradeHealth.cpp",
+  "output": "CMakeFiles/Retro_Shooter.dir/UpgradeHealth.cpp.o"
+},
+{
+  "directory": "/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/build",
+  "command": "/usr/bin/c++  -I/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/include -I/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/SDL2_mixer -isystem /usr/include/SDL2 -g -o CMakeFiles/Retro_Shooter.dir/UpgradeWeaponSpeed.cpp.o -c /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/UpgradeWeaponSpeed.cpp",
+  "file": "/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/UpgradeWeaponSpeed.cpp",
+  "output": "CMakeFiles/Retro_Shooter.dir/UpgradeWeaponSpeed.cpp.o"
+},
+{
+  "directory": "/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/build",
+  "command": "/usr/bin/c++  -I/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/include -I/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/SDL2_mixer -isystem /usr/include/SDL2 -g -o CMakeFiles/Retro_Shooter.dir/Vector2D.cpp.o -c /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/Vector2D.cpp",
+  "file": "/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/Vector2D.cpp",
+  "output": "CMakeFiles/Retro_Shooter.dir/Vector2D.cpp.o"
+},
+{
+  "directory": "/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/build",
+  "command": "/usr/bin/c++  -I/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/include -I/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/SDL2_mixer -isystem /usr/include/SDL2 -g -o CMakeFiles/Retro_Shooter.dir/Weapon.cpp.o -c /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/Weapon.cpp",
+  "file": "/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/Weapon.cpp",
+  "output": "CMakeFiles/Retro_Shooter.dir/Weapon.cpp.o"
+},
+{
+  "directory": "/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/build",
+  "command": "/usr/bin/c++  -I/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/include -I/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/SDL2_mixer -isystem /usr/include/SDL2 -g -o CMakeFiles/Retro_Shooter.dir/main.cpp.o -c /home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/main.cpp",
+  "file": "/home/nathantan/Documents/001-Code/sdl2/Retro-First-Person-Shooter-Code-1-0-1-0/main.cpp",
+  "output": "CMakeFiles/Retro_Shooter.dir/main.cpp.o"
+}
+]
